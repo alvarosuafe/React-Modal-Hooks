@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "ASM-Regular", monospace;
+}
+
+.App .openModal {
+  margin-top: 5%;
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1em;
+  font-family: "ASM-Regular", monospace;
+  background-color: #0000d2;
+  color: white;
+  cursor: pointer;
+}
+.appHeader{
+  color: #0000d2;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
